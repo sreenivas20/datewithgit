@@ -1,0 +1,48 @@
+[33mcommit 3dafad141b4e929b801b9cd9e59964dc9d782319[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Sreenivas shenoy v <sreenivasshenoy20@gmail.com>
+Date:   Thu Apr 20 12:54:47 2023 +0530
+
+    feature commit
+
+[33mcommit 671353d63f0ff11e385b86e691e6e59c42ecabd6[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Sreenivas shenoy v <sreenivasshenoy20@gmail.com>
+Date:   Thu Apr 20 12:52:21 2023 +0530
+
+    hi file
+
+[33mcommit 23efbdbe1f8cde2f0ff807aad5305251a7d8aa39[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 729c274 b3c59d9
+Author: Sreenivas shenoy v <sreenivasshenoy20@gmail.com>
+Date:   Thu Apr 20 12:47:56 2023 +0530
+
+    WIP on feature: 729c274 Added to feature branch
+
+[33mcommit b3c59d9698c08421625520754fa2894ab4bacf6c[m
+Author: Sreenivas shenoy v <sreenivasshenoy20@gmail.com>
+Date:   Thu Apr 20 12:47:56 2023 +0530
+
+    index on feature: 729c274 Added to feature branch
+
+[33mcommit 729c274f029e03a8e40c7b98147cbec51e40181d[m
+Author: Sreenivas shenoy v <sreenivasshenoy20@gmail.com>
+Date:   Thu Apr 20 12:07:51 2023 +0530
+
+    Added to feature branch
+
+[33mcommit ad4c17c96b4519da103fd3a0580a78729e0f4b43[m
+Author: Sreenivas shenoy v <sreenivasshenoy20@gmail.com>
+Date:   Thu Apr 20 11:59:11 2023 +0530
+
+    second commit
+
+[33mcommit dc7d54b46ef3f56f0923e96c7e00d14cada31028[m
+Author: Sreenivas shenoy v <sreenivasshenoy20@gmail.com>
+Date:   Thu Apr 20 11:42:31 2023 +0530
+
+    i added some msg
+
+[33mcommit 10e3b27c2ea890d03dc0217ce157ff2a5a9ad5e7[m
+Author: Sreenivas shenoy v <sreenivasshenoy20@gmail.com>
+Date:   Thu Apr 20 11:32:56 2023 +0530
+
+    initial commit
